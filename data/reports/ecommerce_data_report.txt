@@ -1,0 +1,14 @@
+=== BUSINESS ANALYTICS REPORT ===
+
+KEY PERFORMANCE INDICATORS
+total_revenue: 2.205524651799351e-11
+avg_revenue: 4.109869823213938e-17
+total_quantity: 2.1231016944511794e-11
+avg_quantity: 3.956279327243314e-17
+total_orders: 536641
+
+ANOMALIES
+high_revenue_orders: 313
+
+CHARTS
+data/reports\ecommerce_data_trend.png
